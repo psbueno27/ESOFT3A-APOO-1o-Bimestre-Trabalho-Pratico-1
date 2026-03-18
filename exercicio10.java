@@ -11,7 +11,7 @@
  Descritivo: Escreva um programa que encontre o maior número em um array de inteiros.
  ***************************/
 
-public class Exercicio10 {
+public class exercicio10 {
     public static void main(String[] args) {
         int[] number = {18, 68, 2, 31, 17};
         int aux = 0;
