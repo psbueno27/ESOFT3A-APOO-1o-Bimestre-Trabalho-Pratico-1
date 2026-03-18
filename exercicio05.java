@@ -12,7 +12,7 @@ Descritivo: Escreva um programa que exiba apenas os números pares de 1 a 20.
 *******************************************************************************/
 package main;
 
-public class exercicio5 {
+public class exercicio05 {
 
 	public static void main(String[] args) {
 		int i;
@@ -27,7 +27,7 @@ public class exercicio5 {
 /******************************************************************************
 Esse código em Java cria um programa que exibe somente os números pares de 1 a 20.
 
-1-A classe exercicio5 é criada, ela contém o programa.
+1-A classe exercicio05 é criada, ela contém o programa.
 2-O método main é o início do processo.
 3-A váriavel i é definida como inteira.
 4-O for começa com i sendo 1 e continua o ciclo enquanto i for menor ou igual a 20.
