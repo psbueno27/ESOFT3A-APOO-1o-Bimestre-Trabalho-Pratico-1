@@ -14,7 +14,7 @@ package main;
 
 import java.util.Scanner;
 
-public class exercicio1 {
+public class exercicio01 {
 
 	public static void main(String[] args) {
 		Scanner read = new Scanner(System.in);
@@ -31,7 +31,7 @@ public class exercicio1 {
 /******************************************************************************
 Esse código em Java cria um programa que recebe dois números digitados, soma eles e mostra seu resultado.
 
-1-A classe exercicio1 é criada, ela contém o programa.
+1-A classe exercicio01 é criada, ela contém o programa.
 2-O método main é o início do processo.
 3-Um Scanner (read) é criado para ler os valores digitados.
 4-Dois valores são solicitados ao usuário.
