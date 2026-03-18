@@ -14,7 +14,7 @@ package main;
 
 import java.util.Scanner;
 
-public class exercicio2 {
+public class exercicio02 {
 
 	public static void main(String[] args) {
 		Scanner read= new Scanner(System.in);
@@ -34,7 +34,7 @@ public class exercicio2 {
 /******************************************************************************
 Esse código em Java cria um programa que recebe um número digitado, divide ele por dois e a partir de seu resto, determina se é par ou ímpar.
 
-1-A classe exercicio2 é criada, ela contém o programa.
+1-A classe exercicio02 é criada, ela contém o programa.
 2-O método main é o início do processo.
 3-Um Scanner (read) é criado para ler o valor digitado.
 4-Um valor é solicitado ao usuário.
