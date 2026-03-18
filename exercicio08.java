@@ -41,7 +41,7 @@ public class exercicio08 {
 }
 /*
 1. Importa a classe Scanner da biblioteca java.util para permitir a leitura de dados digitados pelo usuário.
-2. Declara a classe chamada Exercicio8, que é a estrutura principal do programa.
+2. Declara a classe chamada Exercicio08, que é a estrutura principal do programa.
 3. Declara o método main, que é o ponto inicial de execução do programa.
 4. Cria um objeto Scanner chamado "entrada" para ler dados do teclado usando System.in.
 5. Exibe uma mensagem pedindo para o usuário digitar uma palavra ou frase.
