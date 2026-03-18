@@ -33,7 +33,7 @@ public class exercicio06 {
 }
 
 /******************************************************************************
-Esse código em Java cria um programa que recebe três números digitados, calcula e mostra sua média.
+Esse código em Java cria um programa que recebe cinco números digitados, armazena eles num array e depois os exibe na tela.
 
 1-A classe exercicio06 é criada, ela contém o programa.
 2-O método main é o início do processo.
