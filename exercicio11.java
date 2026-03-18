@@ -28,7 +28,7 @@ class Pessoa {
     }
 }
 
-public class Exercicio11 {
+public class exercicio11 {
     public static void main(String[]args){
 
         Scanner entrada = new Scanner(System.in);
