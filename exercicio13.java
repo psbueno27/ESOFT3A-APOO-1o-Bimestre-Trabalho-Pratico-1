@@ -7,7 +7,7 @@
  25004652-2 - Alef Gustavo Antunes Luciano
  25181903-2 - Juan Pablo da Silva Siqueira
  25181992-2 - Pedro de Souza Bueno
- Data: 05 de Março de 2026
+ Data: 18 de Março de 2026
  Descritivo: Escreva um programa que defina uma interface Veiculo com métodos acelerar() e frear(), e implemente
  essa interface em uma classe Carro.
  *******************************************************************************/
