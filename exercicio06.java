@@ -15,7 +15,7 @@ package main;
 
 import java.util.Scanner; 
 
-public class exercicio6 {
+public class exercicio06 {
 
 	public static void main(String[] args) {
 		Scanner read = new Scanner(System.in);
@@ -35,7 +35,7 @@ public class exercicio6 {
 /******************************************************************************
 Esse código em Java cria um programa que recebe três números digitados, calcula e mostra sua média.
 
-1-A classe exercicio6 é criada, ela contém o programa.
+1-A classe exercicio06 é criada, ela contém o programa.
 2-O método main é o início do processo.
 3-Um Scanner (read) é criado para ler os valores digitados.
 4-Cinco valores são solicitados ao usuário através de um laço for.
