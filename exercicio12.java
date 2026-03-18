@@ -41,7 +41,7 @@ class Aluno extends Pessoa {
     }
 }
 
-public class Exercicio12 {
+public class exercicio12 {
     public static void main(String[] args) {
         Pessoa pessoa1 = new Pessoa("João", 36);
         Aluno pessoa2 = new Aluno("Gabriel", 19, 2025173);
