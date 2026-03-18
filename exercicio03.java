@@ -15,7 +15,7 @@ package main;
 import java.util.Scanner;
 import java.util.Locale;
 
-public class exercicio3 {
+public class exercicio03 {
 
 	public static void main(String[] args) {
 		Scanner read = new Scanner(System.in).useLocale(Locale.US);
@@ -34,7 +34,7 @@ public class exercicio3 {
 /******************************************************************************
 Esse código em Java cria um programa que recebe três números digitados, calcula e mostra sua média.
 
-1-A classe exercicio3 é criada, ela contém o programa.
+1-A classe exercicio03 é criada, ela contém o programa.
 2-O método main é o início do processo.
 3-Um Scanner (read) é criado para ler os valores digitados, sendo seu Locale configurado para US, para reconhecer o . como separador decimal.
 4-Três valores são solicitados ao usuário.
